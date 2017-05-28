@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Basedatosprueba</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--STRINGS DE LA ACTIVIDAD REGISTRO-->
+    <string name="nombre">NOMBRES</string>
+    <string name="apellidos">APELLIDOS</string>
+    <string name="direccion">DIRECCIÓN</string>
+    <string name="telefono">TELÉFONO</string>
+    <string name="barrio">BARRIO</string>
+    <string name="Confir.contraseña">CONFIRMAR CONTRASEÑA</string>
+    <string name="correo">CORREO ELECTRÓNICO</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="cedula">CEDULA</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="contrasena">CONTRASEÑA</string>
+
+</resources>
